@@ -31,3 +31,23 @@ Explore and analyze the data to discover key findings pertaining to terrorist ac
 
 #### **3. Exploratory Data Analysis & Visualizations**
 ###### **Univariate Analysis | Bivariate Analysis |  Multivariate Analysis**
+#### **Ask & answer questions**
+1. What period of time had the highest number of attacks and which period had the lowest?
+2. How many attacks extended more than 24 hours and how many are not?
+3. Number of successful and unsuccessful accidents
+4. Do the trend in attacks vary with respect to month?
+5. What are the top 25 target countries in the world?
+6. Identify the 50 targeted cities in the history
+7. Top 10 active terrorist groups in the most affected city? 
+8. Compare the outcomes (number of fatalities & wounds) from the above findings. Identify the years with the least & most casualties in the city. Discuss the reasons.
+9. Comment on the global trend in terrorism with respect to the period of time.
+10. Discuss the role deadliest wars in history. Comment on the adverse outcomes after these disasters
+11. Which region was the most fallen victim of attacks? Which region has the lowest?
+12. What are the regions containing the highest and the lowest casualties?. Compare casualties, the death toll, and number of wounds in each region.
+13. Compare the trend in attack in each region with respect to the time?
+14. Number of attacks VS success rate.
+15. What kinds of weapons are used in terror attacks?
+16. Who are the common victims of terror attacks?
+17. Who are the top 25 active terror groups? 
+18. Find out the targeted countries of the top 3 active groups in history. Comment out outcomes. 
+19. Explore the variable 'extended' with respect to the method of attack
