@@ -81,5 +81,5 @@ Explore and analyze the data to discover key findings pertaining to terrorist ac
 
 #### **Challenges Faced**
 1. Large amount of null values were present in the data.
-2. Presence of incorrect values in the meanngful features. 
+2. Presence of incorrect values in the meaningful features. 
 3. Selection of right visualization techniques for the analysis.
